@@ -63,7 +63,7 @@
 # 5. 데이터셋 구성
 
 ## 사용 예정 데이터셋
-- [Dental Panoramic X-Ray Dataset]((https://www.kaggle.com/datasets/thunderpede/panoramic-dental-dataset?utm_source=chatgpt.com)
+- [Dental Panoramic X-Ray Dataset](https://www.kaggle.com/datasets/thunderpede/panoramic-dental-dataset?utm_source=chatgpt.com)
   
 ## 데이터 구성
 - 파노라마 치과 X-Ray 이미지
