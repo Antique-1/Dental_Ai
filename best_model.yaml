@@ -1,0 +1,6 @@
+best_model: yolov8m
+best_weights: runs\train\yolov8m\weights\best.pt
+mAP50: 0.26409271136003604
+mAP50_95: 0.1541449751271245
+precision: 0.5517384508721143
+recall: 0.2727272727272727
