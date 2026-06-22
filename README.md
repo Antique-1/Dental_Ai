@@ -160,10 +160,10 @@
 
 ## 사후관리 추천 기능
 
-### 구현 예시
-- 충치 위험:
-  - 당분 섭취 감소
-  - 정기 검진 권장
+### 구현 결과
+
+<img width="1919" height="980" alt="화면 캡처 2026-06-14 152708" src="https://github.com/user-attachments/assets/87a7bbee-70e1-4e36-a14c-fdad4ddf6cd9" />
+
 
 ---
 
